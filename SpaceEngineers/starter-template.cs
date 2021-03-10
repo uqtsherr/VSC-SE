@@ -27,8 +27,7 @@ public Program() {
 
 public void Main(string args) {
 
-    //This is a comment to mikey :D - your gonna change it
-}
+    //This is a comment to mikey :D - I ahve changed it
 
 #region PreludeFooter
     }
